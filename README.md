@@ -5,7 +5,7 @@
 
 
 <h2>Dataset</h2>
-<a href="https://www.kaggle.com/datasets/marquis03/flower-classification">Click here</a>
+<a href="https://www.kaggle.com/datasets/marquis03/flower-classification">Source of dataset</a>
 <p>Dataset yang digunakan terdiri dari 3 jenis bunga yaitu: </p>
 <ol>
     <li>Dendellion  : 100 data</li>
